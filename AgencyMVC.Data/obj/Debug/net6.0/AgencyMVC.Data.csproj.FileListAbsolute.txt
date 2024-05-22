@@ -1,0 +1,17 @@
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\bin\Debug\net6.0\AgencyMVC.Data.deps.json
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\bin\Debug\net6.0\AgencyMVC.Data.dll
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\bin\Debug\net6.0\AgencyMVC.Data.pdb
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\bin\Debug\net6.0\AgencyMVC.Core.dll
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\bin\Debug\net6.0\AgencyMVC.Core.pdb
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.csproj.AssemblyReference.cache
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.AssemblyInfoInputs.cache
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.AssemblyInfo.cs
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.csproj.CopyComplete
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.dll
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\refint\AgencyMVC.Data.dll
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.pdb
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\ref\AgencyMVC.Data.dll
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\bin\Debug\net6.0\AgencyMVC.Data.runtimeconfig.json
+C:\Users\ll novbe\Desktop\AgencyMVC\AgencyMVC.Data\obj\Debug\net6.0\AgencyMVC.Data.genruntimeconfig.cache
